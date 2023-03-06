@@ -1,8 +1,8 @@
 import './App.css';
 import Card from './Components/Card';
 import Navbar from './Components/Navbar';
-import earth from './images/earth-logo.jpg';
-import location from './images/location-logo.jpg';
+import earth from './assets/images/earth-logo.jpg';
+import location from './assets/images/location-logo.jpg';
 import Data from './Components/Data';
 
 function App() {
